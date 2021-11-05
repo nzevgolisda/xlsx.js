@@ -1,0 +1,25 @@
+{
+  "name": "xlsx",
+  "version": "1.0.0",
+  "description": "Excel through JavaScript.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nzevgolisda/xlsx.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nzevgolisda/xlsx.js/issues"
+  },
+  "homepage": "https://github.com/nzevgolisda/xlsx.js#readme",
+  "devDependencies": {
+    "any-text": "^1.2.0"
+  },
+  "dependencies": {
+    "exceljs": "^4.3.0"
+  }
+}
